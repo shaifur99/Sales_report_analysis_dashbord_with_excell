@@ -1,51 +1,57 @@
-# Sales_report_analysis_dashbord_with_excell
-🛍️ Vrinda Store Sales Dashboard Analysis
-📊 Project Overview
-This project presents a comprehensive data analysis and interactive dashboard for Vrinda Store, based on sales and order data. The primary goal is to extract meaningful business insights that can help improve overall sales performance using visualizations and customer behavior patterns.
+# 🛍️ Vrinda Store Sales Dashboard Analysis
 
-🔍 Key Business Questions Answered:
-📈 Compare sales and orders using a single chart
+[![Python](https://img.shields.io/badge/Tools-Excel-blue)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-📅 Which month had the highest sales and number of orders?
+---
 
-👩‍🦰👨 Who purchased more in 2022 – men or women?
+## 📊 Project Overview
+This project presents a **comprehensive data analysis** and **interactive dashboard** for Vrinda Store, based on sales and order data.  
+The main goal is to extract **meaningful business insights** that help improve sales performance using **visualizations** and **customer behavior analysis**.
 
-📦 What are the different order statuses in 2022?
+---
 
-🗺️ Top 10 states contributing to total sales
+## 🔍 Key Business Questions Answered
+- 📈 Compare sales and orders using a single chart  
+- 📅 Identify which month had the highest sales and number of orders  
+- 👩‍🦰👨 Determine who purchased more in 2022 – men or women  
+- 📦 Analyze different order statuses in 2022  
+- 🗺️ Identify top 10 states contributing to total sales  
+- 👥 Study relation between age and gender based on number of orders  
+- 🛒 Determine which sales channel contributed the most  
+- 🧩 Identify the highest selling product category  
 
-👥 Relation between age and gender based on number of orders
+---
 
-🛒 Which sales channel contributed the most?
+## 📌 Sample Insights
+- Women customers accounted for **~65%** of total purchases  
+- Top 3 contributing states: **Maharashtra, Karnataka, Uttar Pradesh**  
+- Adult age group (30–49 years) contributed **~50%** of total sales  
+- Top sales channels: **Amazon, Flipkart, Myntra**  
+- Most popular categories and seasonal sales trends identified  
 
-🧩 What is the highest selling product category?
+---
 
+## 🎯 Final Recommendations
+To boost sales performance, Vrinda Store should:  
+- 📢 Target **women aged 30–49** in **Maharashtra, Karnataka, and Uttar Pradesh**  
+- Offer **personalized ads, coupons, and discounts** on **Amazon, Flipkart, and Myntra**  
+- Leverage insights from dashboard to optimize marketing and stock management
 
+---
 
-📌 Sample Insights
-Women customers accounted for ~65% of the total purchases.
+## 🧰 Tools & Technologies Used
+- **Microsoft Excel / Google Sheets** → Initial data wrangling  
+- **Power BI / Tableau / Python** → Dashboard creation and visualization  
+- Data cleaning, grouping, filtering, and interactive dashboarding  
 
-Top 3 contributing states: Maharashtra, Karnataka, and Uttar Pradesh.
+---
 
-Adult age group (30-49 years) contributed ~50% of total sales.
+## 👤 Author
+**Md. Shaifur Rahman**  
+📧 Email: shaifur22103199@gmail.com
 
-Top sales channels: Amazon, Flipkart, and Myntra.
+---
 
-Most popular categories and seasonal sales trends identified.
-
-🎯 Final Recommendation
-To boost sales performance, Vrinda Store should:
-
-📢 Target women customers aged 30–49 living in Maharashtra, Karnataka, and Uttar Pradesh by offering personalized ads, coupons, and discounts on Amazon, Flipkart, and Myntra platforms.
-
-🧰 Tools & Technologies Used
-Microsoft Excel / Google Sheets (for initial data wrangling)
-
-Power BI / Tableau / Python (whichever tool you used for visualization)
-
-Data Cleaning, Grouping, Filtering, and Dashboarding techniques
-
-
-👤 Author
-Md. Shaifur Rahman
-Email: shaifur22103199@gmail.com
+## 📜 License
+This project is **open-source** and free to use for **learning and research purposes**.  
+[MIT License](LICENSE)
