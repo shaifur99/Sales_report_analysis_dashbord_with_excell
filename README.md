@@ -40,8 +40,7 @@ To boost sales performance, Vrinda Store should:
 ---
 
 ## 🧰 Tools & Technologies Used
-- **Microsoft Excel / Google Sheets** → Initial data wrangling  
-- **Power BI / Tableau / Python** → Dashboard creation and visualization  
+- **Microsoft Excel - Dashboard creation and visualization
 - Data cleaning, grouping, filtering, and interactive dashboarding  
 
 ---
